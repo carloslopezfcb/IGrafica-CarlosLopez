@@ -1,2 +1,2 @@
-# IGrafica-CarlosLopez
-Practicas
+# InfoGrafic
+P1
